@@ -53,3 +53,7 @@ Microsoft Excel
 
 ## Project Objective
 To demonstrate practical Excel and data analysis skills by converting raw retail sales data into meaningful business insights.
+
+## Dashboard Preview
+
+![Retail Sales Dashboard](Retail%20sales%20Dashboard.png)
